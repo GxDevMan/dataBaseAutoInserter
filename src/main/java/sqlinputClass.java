@@ -3,7 +3,6 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public class sqlinputClass
 {
-    
     private String username;
     private String password;
     private String url;
